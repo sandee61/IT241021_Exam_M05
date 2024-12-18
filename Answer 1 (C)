@@ -1,13 +1,14 @@
-###There are many mistakes people can do while creating or making excel such as they cannot spell the functions correctely, sometimes they can mispell teh SUM function, you get the #NAME error
-sometimes data is not available for afunction or formula , Incorrect array formulas, and mistyping cell references.
+       ###There are many mistakes people can do while creating or making excel such as they cannot spell the functions correctely, sometimes they can mispell teh SUM function, you get the #NAME error.
+
+         sometimes data is not available for afunction or formula , Incorrect array formulas, and mistyping cell references.
 
 
-## most common mistake is when you mistyping the cell references can lead to Excel throwing a #REF! error. This can clearly signify that your formula contains an invalid cell reference.
+        ## most common mistake is when you mistyping the cell references can lead to Excel throwing a #REF! error. This can clearly signify that your formula contains an invalid cell reference.
 
-# Some URL's :
+    # Some URL's :
 
-#https://www.youtube.com/watch?v=sFn0gE_y1U4
+       #https://www.youtube.com/watch?v=sFn0gE_y1U4
 
-#https://www.studysmarter.co.uk/explanations/engineering/professional-engineering/excel-errors/
+        #https://www.studysmarter.co.uk/explanations/engineering/professional-engineering/excel-errors/
 
-#https://www.goskills.com/Excel/Resources/Excel-errors
+         #https://www.goskills.com/Excel/Resources/Excel-errors
